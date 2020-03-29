@@ -2,6 +2,7 @@
 ## Base de Conocimiento
 
 <center>
-![logo](assets/logo_.png)
+![logo](/a/logo_.png)
+  
 </center>
 
